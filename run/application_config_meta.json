@@ -1,0 +1,267 @@
+{
+  "keys": "/Users/lxs24sxl/github/egg-guide/config/config.default.js",
+  "news": {
+    "pageSize": "/Users/lxs24sxl/github/egg-guide/config/config.default.js",
+    "serverUrl": "/Users/lxs24sxl/github/egg-guide/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/lxs24sxl/github/egg-guide/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "name": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "version": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "description": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "main": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "url": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "license": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "bugs": {
+      "url": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    },
+    "homepage": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "strict": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "depth": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "env": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "level": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "logging": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "port": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/lxs24sxl/github/egg-guide/node_modules/egg/config/config.default.js"
+}

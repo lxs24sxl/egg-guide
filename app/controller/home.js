@@ -1,12 +1,9 @@
-'use strict';
+const Controller = require("egg").Controller;
 
-const Controller = require('egg').Controller;
-
-class HomeController extends Controller {
+class HomeConstroller extends Controller {
   async index() {
-    const { ctx } = this;
-    ctx.body = ctx.isIOS;
+    this.ctx.body = "Hello world";
   }
 }
 
-module.exports = HomeController;
+module.exports = HomeConstroller;
