@@ -13,7 +13,6 @@ class NewsService extends Service {
       dataType: 'json'
     });
 
-
     const newsList = await Promise.all(
       Object.keys(idList).map(key => {
         const url = `${serverUrl}/item/${idList[key]}.json`;
@@ -21,7 +20,7 @@ class NewsService extends Service {
       })
     );
 
-    return newsList.map(res => res.data)
+    return newsList.map(res => res.data);
   }
 }
 

@@ -346,3 +346,27 @@
 2019-06-10 20:09:14,072 INFO 45454 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2019-06-10 20:09:14,072 INFO 45454 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js
 2019-06-10 20:09:14,072 INFO 45454 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-10 22:54:12,548 INFO 47501 [Timer] /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20147454ms at 2019-06-11 04:30:00.001
+2019-06-10 22:54:12,548 INFO 47501 [Timer] /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 3947452ms at 2019-06-11 00:00:00.000
+2019-06-10 22:54:12,548 INFO 47501 [Timer] /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 3948452ms at 2019-06-11 00:00:01.000
+2019-06-10 22:54:12,471 INFO 47503 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-10 22:54:12,471 INFO 47503 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-10 22:54:12,471 INFO 47503 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-10 22:55:23,131 INFO 47574 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-10 22:55:23,132 INFO 47574 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-10 22:55:23,132 INFO 47574 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-10 23:12:42,008 INFO 48092 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-10 23:12:42,008 INFO 48092 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-10 23:12:42,008 INFO 48092 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-10 23:12:42,715 INFO 48093 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-10 23:12:42,715 INFO 48093 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-10 23:12:42,715 INFO 48093 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-10 23:21:54,661 INFO 48357 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-10 23:21:54,661 INFO 48357 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-10 23:21:54,661 INFO 48357 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-10 23:21:58,164 INFO 48366 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-10 23:21:58,164 INFO 48366 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-10 23:21:58,164 INFO 48366 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-10 23:22:05,903 INFO 48387 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-10 23:22:05,903 INFO 48387 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-10 23:22:05,903 INFO 48387 [egg-schedule]: register schedule /Users/lxs24sxl/github/egg-guide/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
